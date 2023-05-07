@@ -155,7 +155,6 @@ export USER_NAME
 ./install_opencpn.sh
 ./install_xygrib.sh
 ./install_PDAL.sh
-./install_qfield.sh
 
 ## Python stack
 ./install_mapproxy.sh
