@@ -162,47 +162,47 @@ export USER_NAME
 ./install_pycsw.sh
 ./install_pywps.sh
 ./install_pygeoapi.sh
-./install_eoxserver.sh
-./install_istsos.sh
+# ./install_eoxserver.sh
+# ./install_istsos.sh
 # ./install_actinia.sh # install_vm_only
 
 ## R stack
-./install_R.sh
+# ./install_R.sh
 
 ## Jupyter
-./install_jupyter.sh
+# ./install_jupyter.sh
 
 ## Java stack
-./install_geoserver.sh
-./install_geonetwork.sh
-./install_deegree.sh
+# ./install_geoserver.sh
+# ./install_geonetwork.sh
+# ./install_deegree.sh
 # ./install_udig.sh "$ARCH" # install_vm_only
-./install_openjump.sh
+# ./install_openjump.sh
 # ./install_gvsig.sh "$ARCH" # install_vm_only
-./install_gpsprune.sh
+# ./install_gpsprune.sh
 
 ## Java + default tomcat
-./install_52nWPS.sh
+# ./install_52nWPS.sh
 # ./install_52nSOS.sh # install_vm_only
 # ./install_ncWMS.sh # install_vm_only
 
 ## PHP stack
-./install_mapbender.sh
-./install_geomoose.sh
+# ./install_mapbender.sh
+# ./install_geomoose.sh
 
 ## more Python (GeoServer rdeps)
-./install_geonode.sh
+# ./install_geonode.sh
 
 ## Rust
-./install_trex.sh
+# ./install_trex.sh
 
 ## Javascript et al
-./install_openlayers.sh
-./install_leaflet.sh
-./install_cesium.sh
-./install_geoext.sh
+# ./install_openlayers.sh
+# ./install_leaflet.sh
+# ./install_cesium.sh
+# ./install_geoext.sh
 # ./install_rasdaman.sh # install_vm_only
-./install_geostyler.sh
+# ./install_geostyler.sh
 # ./install_re3gistry.sh # install_vm_only
 # ./install_etf.sh # install_vm_only
 
