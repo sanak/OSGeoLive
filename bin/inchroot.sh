@@ -173,25 +173,25 @@ export USER_NAME
 ./install_jupyter.sh
 
 ## Java stack
-./install_geoserver.sh
-./install_geonetwork.sh
+# ./install_geoserver.sh
+# ./install_geonetwork.sh
 # ./install_deegree.sh
 # ./install_udig.sh "$ARCH" # install_vm_only
-./install_openjump.sh
+# ./install_openjump.sh
 # ./install_gvsig.sh "$ARCH" # install_vm_only
-./install_gpsprune.sh
+# ./install_gpsprune.sh
 
 ## Java + default tomcat
-./install_52nWPS.sh
+# ./install_52nWPS.sh
 # ./install_52nSOS.sh # install_vm_only
 # ./install_ncWMS.sh # install_vm_only
 
 ## PHP stack
-./install_mapbender.sh
-./install_geomoose.sh
+# ./install_mapbender.sh
+# ./install_geomoose.sh
 
 ## more Python (GeoServer rdeps)
-./install_geonode.sh
+# ./install_geonode.sh
 
 ## Rust
 ./install_trex.sh
